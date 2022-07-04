@@ -48,4 +48,3 @@ public class ImageResponse {
         this.contentType = contentType;
     }
 }
-
